@@ -1,5 +1,9 @@
 
 
+print("hello! git")
+
+
+
 def start(word) :
     wrong = 0
     stages = ["",
